@@ -35,7 +35,7 @@ I build backend services and full stack apps that real people depend on. At Ford
 
 ### 🚀 What I'm building
 
-- **[LightStack](https://lightstack.org)**: AI fitness coaching app for iOS. Camera based motion tracking plus an AI coach that adjusts your training. SwiftUI, Supabase, Gemini.
+- **LightStack**: AI fitness coaching app for iOS. Camera based motion tracking plus an AI coach that adjusts your training. SwiftUI, Supabase, Gemini.
 - **AuraHome**: iOS app that helps you block distracting apps using Apple's Screen Time tools.
 - **Voice assistant**: a hands free iPhone assistant built mostly from open source tools.
 
